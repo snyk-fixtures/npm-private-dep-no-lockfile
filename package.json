@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "dependencies": {
+      "lodash": "^4.17.14",
+      "@private-org/log": "^2.8.3"
+  }
+}
